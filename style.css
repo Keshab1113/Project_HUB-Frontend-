@@ -227,11 +227,11 @@ body{
     }
     .container .introduce h1{
         font-size: 3rem;
-        margin-top: 1.5rem;
+        margin-top: 1.8rem;
     }
     .container .introduce p{
         font-size: 1.5rem;
-        margin-left: 3rem;
+        margin-left: 2rem;
     }
     #whiteman{
         margin-left: 1.5rem;
@@ -244,7 +244,7 @@ body{
     }
     .project-img img{
         width: 339px;
-        margin-left: 9px;
+        margin-left: 3px;
     }
     .foot p{
         font-size: .95rem;
