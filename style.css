@@ -213,6 +213,67 @@ body{
     border-radius: 10px;
 }
 
+@media (max-width:991px){
+    .navigation{
+        width: 90%;
+    }
+    .container{
+        width: 90%;
+        
+    }
+    .container .introduce h1{
+        font-size: 4rem;
+        margin-top: 1.5rem;
+    }
+    #whiteman{
+        margin-left: 2.5rem;
+        margin-top: 1.5rem;
+    }
+    .container .introduce p{
+        font-size: 2rem;
+        margin-left: 4rem;
+    }
+    .project-img img{
+        margin-left: 60px;
+    }
+    .container .imgsection img{
+        margin-left: -4rem;
+        width: 127%;
+        height: 20rem;
+    }
+}
+
+
+@media (max-width:768px){
+    .navigation{
+        width: 90%;
+    }
+    .container{
+        width: 90%;
+        
+    }
+    .container .introduce h1{
+        font-size: 4rem;
+        margin-top: 1.5rem;
+    }
+    #whiteman{
+        margin-left: 2.5rem;
+        margin-top: 1.5rem;
+    }
+    .container .introduce p{
+        font-size: 2rem;
+        margin-left: 4rem;
+    }
+    .project-img img{
+        margin-left: 180px;
+    }
+    .container .imgsection img{
+        margin-left: -4rem;
+        width: 127%;
+        height: 20rem;
+    }
+}
+
 @media (max-width:450px){
     .navigation{
         width: 90%;
@@ -250,61 +311,5 @@ body{
         font-size: .95rem;
     }
 }
-@media (max-width:768px){
-    .navigation{
-        width: 90%;
-    }
-    .container{
-        width: 90%;
-        
-    }
-    .container .introduce h1{
-        font-size: 4rem;
-        margin-top: 1.5rem;
-    }
-    #whiteman{
-        margin-left: 2.5rem;
-        margin-top: 1.5rem;
-    }
-    .container .introduce p{
-        font-size: 2rem;
-        margin-left: 4rem;
-    }
-    .project-img img{
-        margin-left: 180px;
-    }
-    .container .imgsection img{
-        margin-left: -4rem;
-        width: 127%;
-        height: 20rem;
-    }
-}
-@media (max-width:991px){
-    .navigation{
-        width: 90%;
-    }
-    .container{
-        width: 90%;
-        
-    }
-    .container .introduce h1{
-        font-size: 4rem;
-        margin-top: 1.5rem;
-    }
-    #whiteman{
-        margin-left: 2.5rem;
-        margin-top: 1.5rem;
-    }
-    .container .introduce p{
-        font-size: 2rem;
-        margin-left: 4rem;
-    }
-    .project-img img{
-        margin-left: 60px;
-    }
-    .container .imgsection img{
-        margin-left: -4rem;
-        width: 127%;
-        height: 20rem;
-    }
-}
+
+
